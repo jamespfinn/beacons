@@ -12,7 +12,8 @@ dependencies:
     sdk: flutter
 
   streams_channel:
-    path: ../streams_channel
+#    path: ../streams_channel
+    git: https://github.com/jamespfinn/streams_channel.git    
 
 flutter:
   plugin:
