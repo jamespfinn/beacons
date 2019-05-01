@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/beacons.iml" filepath="$PROJECT_DIR$/beacons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/beacons_android.iml" filepath="$PROJECT_DIR$/beacons_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beacons.iml" filepath="$PROJECT_DIR$/.idea/beacons.iml" />
     </modules>
   </component>
 </project>
